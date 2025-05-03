@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "freaky_text_converter", "freaky_text_converter.vcxproj", "{FB457CDD-539E-47BF-A81E-161A58AE0001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB457CDD-539E-47BF-A81E-161A58AE0001}.Debug|x64.ActiveCfg = Debug|x64
+		{FB457CDD-539E-47BF-A81E-161A58AE0001}.Debug|x64.Build.0 = Debug|x64
+		{FB457CDD-539E-47BF-A81E-161A58AE0001}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB457CDD-539E-47BF-A81E-161A58AE0001}.Debug|x86.Build.0 = Debug|Win32
+		{FB457CDD-539E-47BF-A81E-161A58AE0001}.Release|x64.ActiveCfg = Release|x64
+		{FB457CDD-539E-47BF-A81E-161A58AE0001}.Release|x64.Build.0 = Release|x64
+		{FB457CDD-539E-47BF-A81E-161A58AE0001}.Release|x86.ActiveCfg = Release|Win32
+		{FB457CDD-539E-47BF-A81E-161A58AE0001}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC68C373-D495-40C7-AA41-4184D7463BAD}
+	EndGlobalSection
+EndGlobal
